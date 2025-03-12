@@ -48,7 +48,8 @@ int main(int argc, char* argv[]) {
 ```
 The given code will create the following (the "DX11" in the window title represents the current graphics backend, which might be OpenGL for you)
 
-![image](https://github.com/user-attachments/assets/2be8bf0b-9464-42bc-ab41-78e1a852a82f)
+
+![image](https://github.com/user-attachments/assets/167f4971-df80-47d2-84f3-43588db15d74)
 
 More samples are coming soon
 ### Requirements
